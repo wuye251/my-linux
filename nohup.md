@@ -23,3 +23,7 @@ nohup执行的格式如下：
 - 0 – stdin (standard input，标准输入)
 - 1 – stdout (standard output，标准输出)
 - 2 – stderr (standard error，标准错误输出)
+
+# 参考
+
+- https://www.runoob.com/linux/linux-comm-nohup.html
